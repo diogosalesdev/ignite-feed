@@ -22,7 +22,7 @@ const posts = [
     publishedAt: new Date('2022-06-05 09:28:35')
   },
   {
-    id: 1,
+    id: 2,
     author: {
       avatarUrl: 'https://github.com/diego3g.png',
       name: 'Diego Fernandes',
@@ -30,8 +30,8 @@ const posts = [
     },
     content: [
       {type: 'paragraph', content: 'Fala galeraa 👋'},
-      {type: 'paragraph', content: 'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀'},
-      {type: 'link', content: '👉 jane.design/doctorcare', href: 'https://jane.design/doctorcare'},
+      {type: 'paragraph', content: 'Eu subi mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀'},
+      {type: 'link', content: '👉s jane.design/doctorcare', href: 'https://jane.design/doctorcare'},
       {type: 'link', content: '#novoprojeto #nlw #rocketseat'}  
     ],
     publishedAt: new Date('2022-06-05 10:28:35')
